@@ -1,0 +1,6 @@
+{
+  "name": "LeadPulse SaaS - Extractor de Prospectos & Outreach IA",
+  "description": "Plataforma SaaS para prospección B2B: rastreo de Google Places, detección de prospectos hot sin sitio web, enriquecimiento con WhatsApp directo, auditoría IA y generación de prompts profesionales para sitios web con Cal.com, IA nativa y panel Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
